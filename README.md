@@ -1,2 +1,2 @@
-# yp-ui.github.io
+# yp-ui
 yp-ui组件库
